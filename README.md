@@ -2,7 +2,7 @@
 
 
 
----
+
 
 # Pandas: Your Data Manipulation Companion
 
@@ -58,6 +58,3 @@ Pandas is your ultimate companion for data manipulation and analysis in Python. 
 
 So dive in, explore, and unleash the power of pandas in your data journey!
 
----
-
-Feel free to adjust the tone and level of detail as needed, and let me know if you need further customization!
